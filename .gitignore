@@ -2,3 +2,7 @@
 *.tfstate
 *.tfstate.backup
 crash.log
+*.key
+*.pem
+.tfvars
+*.tfvars.json
