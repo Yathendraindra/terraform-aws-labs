@@ -17,5 +17,5 @@ provider "aws" {
 # Resource Block
 resource "aws_instance" "ec2demo" {
     ami = "ami-02b8269d5e85954ef"
-    instance_type = "t2.micro"
+    instance_type = "t2.micro"  
 }
